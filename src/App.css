@@ -69,6 +69,9 @@ h5{
   padding: 10px;
   margin-left: 500px;
 }
+.out{
+  overflow-x: hidden;
+}
 }
 @media(max-width:500px){
   /* .card{
